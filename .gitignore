@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except the "MyFiles" directory
+!MyFiles/
+!MyFiles/**
+
+!req.txt
+!.gitignore
